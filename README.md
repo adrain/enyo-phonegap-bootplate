@@ -10,7 +10,12 @@ Usage:
 	1) Clone this repository
 	2) cd to the cloned repository folder
 	3) Run
+		git submodule update --init
+	4) cd to enyobootplate
+	5) Run
+		git submodule update --init
+	6) Run
 		tools/deploy.sh
-	4) You can then deploy it using
+	7) You can then deploy it using
 		phonegap run android
 

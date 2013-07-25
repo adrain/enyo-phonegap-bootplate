@@ -1,9 +1,3 @@
-[submodule "enyobootplate/enyo"]
-	path = enyobootplate/enyo
-	url = git@github.com:enyojs/enyo.git
-[submodule "enyobootplate/lib/layout"]
-	path = enyobootplate/lib/layout
-	url = git@github.com:enyojs/layout.git
-[submodule "enyobootplate/lib/onyx"]
-	path = enyobootplate/lib/onyx
-	url = git@github.com:enyojs/onyx.git
+[submodule "enyobootplate"]
+	path = enyobootplate
+	url = git@github.com:enyojs/bootplate.git
