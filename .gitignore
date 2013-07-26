@@ -1,3 +1,5 @@
 www/assets
 www/build
 www/lib
+platforms/
+plugins/
